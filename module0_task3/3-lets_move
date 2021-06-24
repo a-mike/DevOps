@@ -1,0 +1,3 @@
+#! /bin/bash/
+mv /tmp/swaggy/[[:upper:]]* /tmp/u 
+
