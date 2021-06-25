@@ -1,0 +1,11 @@
+#!/bin/bash
+
+let x=DevOps
+let DevOps=1
+
+while [[ $x -lt 10 ]]; do
+    echo "DevOps"
+    sleep 0.5
+    let x+=1
+done
+
